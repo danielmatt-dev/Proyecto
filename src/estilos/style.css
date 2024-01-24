@@ -4,8 +4,9 @@ h1{
     border: 2px solid blueviolet;
 }
 
-.estilo{
+.clase_estilo{
     color: bisque;
     text-decoration: underline;
     border-radius: 15px;
+    margin: auto;
 }
