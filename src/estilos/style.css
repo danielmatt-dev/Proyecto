@@ -3,3 +3,9 @@ h1{
     text-align: center;
     border: 2px solid blueviolet;
 }
+
+.estilo{
+    color: bisque;
+    text-decoration: underline;
+    border-radius: 15px;
+}
